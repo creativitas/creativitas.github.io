@@ -1,0 +1,34 @@
+title: Creativitas
+description: Creativitas on github
+#url: 
+baseurl: ''
+collections:
+  photos:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+     permalink: /:year/:month/:title:output_ext
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class   : 'syntax'
+
+

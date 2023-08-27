@@ -11,7 +11,7 @@ defaults:
       type: "posts"
     values:
       layout: "default"
-     permalink: /:year/:month/:title:output_ext
+      permalink: /:year/:month/:title:output_ext
   - scope:
       path: ""
     values:

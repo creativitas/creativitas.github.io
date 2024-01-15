@@ -8,6 +8,18 @@ Hire me
 
 [https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
 
+
+--------------
+
+Shoot
+
+![Portfolio website developer jekyll themes template](assets/img/shoot.png)
+
+Lighthouse Result
+
+![Portfolio website developer jekyll themes template](assets/img/shoot.png)
+
+
 --------------
 
 ### How to :
@@ -24,6 +36,7 @@ Hire me
 [Buy A Coffee →](https://creativitaz.gumroad.com/l/coffee) or 
 [By Paypall →](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
+--------------
 
 [Explore all themes project →](https://www.hockeycomputindo.com/themes)
 

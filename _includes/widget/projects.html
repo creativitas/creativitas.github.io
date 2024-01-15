@@ -1,0 +1,35 @@
+<div class="modal fade" id="projectModal" tabindex="-1" aria-labelledby="projectModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-fullscreen-xxl-down">
+<div class="modal-content">
+<div class="modal-header">
+<h1 class="modal-title fs-5" id="projectModalLabel"><strong>{{site.data.projects.title}}</strong></h1>
+<button type="button" class="btn-close bg-white rounded-circle" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body"> 
+<div class="row">
+<div class="col-6 p-3">
+{% for p in site.data.projects.portfolio1 %}
+<h3 class="mt-3"><strong><a href="{{site.url}}"><small>{{p.title}}</small></a></strong></h3>
+<p><small>{{p.description}}</small></p>
+<img class="shadow-sm rounded img-fluid mt-3 mb-3" width="100%" height="100%" loading="lazy" src="https://wsrv.nl/?url={{p.image}}&w=600&output=webp" alt="{{p.description}}"/>
+{% endfor %}</div>
+<div class="col-6 p-3">
+{% for pt in site.data.projects.portfolio2 %}<h3 class="mt-3"><strong><a href="{{site.url}}"><small>{{pt.title}}</small></a></strong></h3>
+<p><small>{{pt.description}}</small></p>
+<img class="shadow-sm rounded img-fluid mt-3 mb-3" width="100%" height="100%" loading="lazy" src="https://wsrv.nl/?url={{pt.image}}&w=600&output=webp" alt="{{pt.description}}"/>
+{% endfor %}</div>
+</div>
+<div class="col-12 p-3">
+<h3>{{site.data.projects.hire}}</h3>
+<p class="row">
+<span class="col-md-8 col-6">{{site.data.projects.hire_text}}</span>
+<span class="col-md-4 col-6"><a href="{{site.data.projects.url}}" class="btn btn-light float-end">{{site.data.projects.hire_btn}}</a></span>
+</p>
+</div>
+</div>
+<div class="modal-footer">
+<a href="{{site.data.services.url}}" class="btn btn-light">{{site.data.projects.button}}</a>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,31 @@
+<div class="modal fade" id="themesModal" tabindex="-1" aria-labelledby="themesModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-fullscreen-xxl-down">
+<div class="modal-content">
+<div class="modal-header">
+<h1 class="modal-title fs-5" id="themesModalLabel"><strong>{{site.data.themes.title}}</strong></h1>
+<button type="button" class="btn-close bg-white rounded-circle" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+<div class="row">
+{% for t in site.data.themes.template %}<div class="col-6 col-lg-6 col-md-6 p-3">
+<a href="{{t.link}}"><img class="shadow-sm rounded img-fluid mt-3 mb-3" width="100%" height="100%" loading="lazy" src="https://wsrv.nl/?url={{t.image}}&w=600&output=webp" alt="{{t.description}}"/></a>
+<div class="p-3">
+<h3 class="mt-3"><strong><a href="{{t.link}}"><small>{{t.title}}</small></a></strong></h3>
+<p><small>{{t.description}}</small></p>
+</div>
+</div>{% endfor %}
+</div>
+<div class="col-12 p-3">
+<h3>{{site.data.themes.hire}}</h3>
+<p class="row">
+<span class="col-md-8 col-6">{{site.data.themes.hire_text}}</span>
+<span class="col-md-4 col-6"><a href="{{site.data.themes.url}}" class="btn btn-light float-end">{{site.data.themes.hire_btn}}</a></span>
+</p>
+</div>
+</div>
+<div class="modal-footer">
+<a href="{{site.data.themes.link}}" class="btn btn-light">{{site.data.themes.button}}</a>
+</div>
+</div>
+</div>
+</div>

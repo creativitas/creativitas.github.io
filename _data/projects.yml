@@ -1,0 +1,91 @@
+---
+title: Projects
+button: See Portfolio Gallery →
+link: https://www.fiverr.com/users/creativitas/portfolio
+hire: Hire Our Team Dev
+hire_text: If you need help with your project, or want to develope modern
+  website , you can hire our team dev.
+hire_btn: Hire Now →
+url: https://www.fiverr.com/creativitas
+portfolio1:
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/a88b191ffbadd59b556e86eb197546fd-1701405151803/Screenshot%202023-12-01%20at%2011-32-16%20Reviews.png
+    title: Grand Limousine
+    description: Client www.grandlimousine.com - Car and Limousine services project.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0622937270fcf0280b792fa19976f0f7-1693447752857/Web%20capture_1-4-2023_19220_smppgri7sedati.sch.id.jpeg
+    title: School Website
+    description: School website project develope with Svelte Kit
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/d417837d78745581976dc8e862c955d3-1701409356323/Screenshot%202023-11-18%20at%2014-41-29%20Ground%20Truth%20Investigation.png
+    title: Detective Website
+    description: Detective Website Project Services.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/296b6c7967ab70a3d8ecf4473485675a-1680591713791/pembuatan%20website%20salon%20barbershop.jpg
+    title: Barber Shop
+    description: Barber Shop website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/b7b05f51b2956c57253f6ddaacfa7d7a-1701400777524/Screenshot%202023-12-01%20at%2010-19-18%20Toko%20Online%20Mesin%20Kasir.png
+    title: Modern Online Shop
+    description: Modern online shop with flatfile cms or integrate with your CMS project.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/b7b05f51b2956c57253f6ddaacfa7d7a-1701400816497/Screenshot%202023-12-01%20at%2010-20-04%20Toko%20Online%20Mesin%20Kasir.png
+    title: Headless Online Shop
+    description: Modern Online Shop project we can develope with Flatfile CMS or
+      Headless CMS with Svelte, React, Angular , Jekyll , Eleventy and Astro JS.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/88a4518a2d869b2687ae98158b7fd490-1680592032299/Screenshot%202022-10-17%20at%2020-40-20%20Lighthouse%20Report%20Viewer.png
+    title: SEO Optimation
+    description: Built website focusing on SEO and touch green score on google lighthouse.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/42a948887aba65ee494a7e8fb2c6e5a9-1701410376617/Screenshot%202023-07-01%20at%2015-08-45%20Pajero.png
+    title: Booking Website
+    description: Develope booking website for rent car limousine services,
+      hotel,restaurant and others.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/b6a8ed1e2daa4c27a6bc3f6ef7fb2cf3-1680592718094/1.jpg
+    title: Point of Sale Web App
+    description: Build point of sale application integration with your website
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/67db5a0fd9598d4f8618886dcb850326-1693441604479/angularrentalmobilsewamobil-websitecms-template.jpg
+    title: Angular Website
+    description: Develope single page app and progresive web app with angular
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/5094424e769bd73ca90d5c502c8f26e7-1702359166180/astrodocumentationwebsite.jpg
+    title: Starlight Astro JS
+    description: Develope your documentation website with custom Starlight Astro JS.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bee604450ef03b793454eea782becb77-1693444716052/Screenshot%202023-08-31%20at%2008-17-02%20OPTIMASI%20WEBSITE.png
+    title: Headless CMS
+    description: Build your modern website with Jekyll , Eleventy , Astro Js, Angular, Next Js, Gatsby Js, integration Headless CMS
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/40d3bd71704d983638cd6ad5673d355f-1701406799662/Screenshot%202023-12-01%20at%2011-59-34%20Rental%20Mobil%20Next%20JS%20WebApp.png
+    title: Next JS
+    description: Next Js website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/5cc583b3566da7605ad46a8246e3617a-1701413192239/Screenshot%202023-03-16%20at%2012-16-55%20Website%20Themes%20Template.png
+    title: Agency Website
+    description: Flatfile and Static Site Generator project, Bludit, Pico, Jekyll ,Eleventy, Astro JS
+portfolio2:
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/ddad0f9f348e9827797e29710cbb9d33-1693444347506/Screenshot%202023-08-31%20at%2008-12-00%20Qt%20C%20and%20QML%20Training%20Services.png
+    title: E-Courses Online
+    description: Client www.e-learnqt.guide - Top Udemy Instructor E-courses web project.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/b34556336956bcf18162e923395570bc-1701413396666/Screenshot%202023-12-01%20at%2013-49-21%20Pembuatan%20Website%20Showroom%20Penjualan%20Mobil.png
+    title: Car Website
+    description: Car website develope with fullstack Python Django
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/56d25a11905f971977a3e1f444aa42f9-1701406925696/Screenshot%202023-12-01%20at%2012-01-47%20React%20Modern%20Website%20Rental%20Mobil.png
+    title: React Website
+    description: Deploy your modern website project with React JS.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/5347096bdc4d24e7bee99ebb961c69fd-1693447134604/Screenshot%202023-08-15%20at%2023-37-45%20Haircut%20Kingdom%20Cute.png
+    title: Hair Salon
+    description: Client www.kingdomcute.hair - Static Site Generator website hair salon spa
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/96755e1b29b1409dbe14468cdbaed406-1693450076200/babyshop%20website%20%2811%29.png
+    title: Baby Shop
+    description: Baby Shop Website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/836852d56f0d572364ab0a1877c5dfac-1693453658490/Screenshot%202023-08-31%20at%2010-46-49%20Axcora%20Property%20CMS.png
+    title: Python Django
+    description: Property website develope with python django
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/1fbd9b085de7fdd2082cd5a8c3b95560-1693442000914/rentalmobilnextjs.jpg
+    title: Next JS Mobile
+    description: Next JS Mobile Web UI design , All in one concept desktoop mobile web project.
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/503ec8063883da614e224637f2245f67-1693455553057/whatsapp%20online%20order%20shop%20resto%20cafe%20rumah%20makan%20warkop%20restoran%20%2829%29.png
+    title: Whatsapp Shop
+    description: Develope your whatsapp shop and store with whatsapp checkout
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/9d602309edaee03b52b655f076774c4c-1693446842944/Screenshot%202023-08-31%20at%2008-53-38%20Podcast.png
+    title: Podcast Website
+    description: Client podcast.doctrineofdiscovery.org podcast website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/98b378f5289d6a97aff10e28cf9d2371-1701412097076/Screenshot%202022-08-08%20at%2011-44-44%20Web%20App%20Technology.png
+    title: Curch website
+    description: Curch website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/740b8633ab8aed76ecd804c98b4f70d1-1701407783566/Screenshot%202023-11-19%20at%2012-46-53%20FREE%20AND%20PREMIUM%20WEBSITE%20BLOG%20THEMES%20TEMPLATE.png
+    title: Eleventy 11ty
+    description: Client www.hockeycomputindo.com 11ty Eleventy website project
+  - image: https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/ede921d4fd789e76cd7b0ce613baa0d4-1680593645041/pembuatan%20aplikasi%20android%20%2832%29.jpeg
+    title: Android App
+    description: Develope android app with Flutter dart,React Native, Android Java,Ionic Capacitor

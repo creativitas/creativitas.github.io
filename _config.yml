@@ -1,34 +1,16 @@
-title: Creativitas
-description: Creativitas on github
-#url: 
-baseurl: ''
-collections:
-  photos:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      permalink: /:year/:month/:title:output_ext
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+title: Jekyll Eleventy Astro JS SSG Website Developer
+description: Creativitas Web Dev Static Site Generator Web Dev
+favicon: /assets/img/creativitaswebdev.webp
+intro: www.fiverr.com/creativitas
+link: https://www.fiverr.com/creativitas
+menu1: Services
+menu2: Projects
+menu3: Themes
+menu4: Codes
+locale: en_EN
+url: 'https://creativitas.github.io'
+#baseurl: ''
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-markdown: kramdown
-highlighter: rouge
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    default_lang: html
-    css_class   : 'syntax'
-
-

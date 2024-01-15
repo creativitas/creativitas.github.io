@@ -1,13 +1,6 @@
 ---
-layout: default
+layout: starter
 title: Creativitas
-description : Welcome to my site creativitas web app in github.
+description : Website develoepr services - Jekyll , Eleventy , Astro Js, React , Next Js , Gatsby Js, Svelte, Bludit, Pico , Flatifle Headless CMS
+image: /assets/img/creativitaswebdev.webp
 ---
-<ul>
-{% for post in site.posts %}
-<li class="p-1">
-<h3><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h3>
-<p>{{post.description}}</p>
-</li>
-  {% endfor %}
-</ul>

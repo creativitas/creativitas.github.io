@@ -1,32 +1,32 @@
 # Creativitas on Github
 
-### A Protfolio website project
+### 👨🏻‍💻 A Protfolio website project
 
-Learn how to develope your Jekyll website with YAML files.
+Learn how to develope your Jekyll 💎 website with ✨ YAML files.
 
-Hire me
+Hire me 🚀
 
-[https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
+👉 [https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
 
 
 --------------
 
-Shoot
+Shoot 📸
 
 ![Portfolio website developer jekyll themes template](assets/img/shoot.png)
 
-Lighthouse Mobile Result
+Lighthouse 📱 Mobile Result
 
 ![Portfolio website developer jekyll themes template](assets/img/mobile.png)
 
-Lighthouse Desktop Result
+Lighthouse 🖥️ Desktop Result
 
 ![Portfolio website developer jekyll themes template](assets/img/desktop.png)
 
 
 --------------
 
-### How to :
+### 🛠️ How to :
 
 + Download source code project
 + Download ruby
@@ -36,14 +36,16 @@ Lighthouse Desktop Result
 + Change all with your needed, then push on your github repo for make your site live !!
 + More themes template [Explore all themes project →](https://www.hockeycomputindo.com/themes)
 
-### Support us with buy me a coffee
-[Buy A Coffee →](https://creativitaz.gumroad.com/l/coffee) or 
-[By Paypall →](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
+### Support us with buy me a coffee 🤞
+
+[☕️ Buy A Coffee →](https://creativitaz.gumroad.com/l/coffee) 
+
+or 
+
+[🥂 Support with Paypall →](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
 --------------
 
-[Explore all themes project →](https://www.hockeycomputindo.com/themes)
+[🛰️ Explore all themes project →](https://www.hockeycomputindo.com/themes)
 
-Hire me
-
-[https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
+👉 Hire me : [https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas/)

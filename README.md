@@ -15,9 +15,13 @@ Shoot
 
 ![Portfolio website developer jekyll themes template](assets/img/shoot.png)
 
-Lighthouse Result
+Lighthouse Mobile Result
 
-![Portfolio website developer jekyll themes template](assets/img/shoot.png)
+![Portfolio website developer jekyll themes template](assets/img/mobile.png)
+
+Lighthouse Desktop Result
+
+![Portfolio website developer jekyll themes template](assets/img/desktop.png)
 
 
 --------------

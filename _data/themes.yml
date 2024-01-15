@@ -6,47 +6,47 @@ hire_text: If you need help with your project, or want to develope modern websit
 hire_btn: Hire Now →
 url: https://www.fiverr.com/creativitas
 template: 
- - image: /assets/img/multipurpose-website.jpg
+ - image: https://creativitas.github.io/assets/img/multipurpose-website.jpg
    title: Multipurpose Astro JS
    description: Build your complete website with modern web tech static site generator Astro JS.Complete feautres and full SEO.
    link: https://creativitaz.gumroad.com/l/astrojs-blacks
- - image: /assets/img/tailwindblog.webp
+ - image: https://creativitas.github.io/assets/img/tailwindblog.webp
    title: Tailwind Blog
    description: Develope your modern website and blog with Tailwind blog project - run on flatfile CMS include with backend admin panel.
    link: https://creativitaz.gumroad.com/l/tailwindblog
- - image: /assets/img/documentationwebsite-astrojs.jpg
+ - image: https://creativitas.github.io/assets/img/documentationwebsite-astrojs.jpg
    title: Docus Documentation Website
    description: If you need to build your documentation website project with complete features, docus is the best choice for your documentation website project.
    link: https://creativitaz.gumroad.com/l/starlightastrodocus
- - image: /assets/img/ionic-mobileweb-flatfile-cms.webp
+ - image: https://creativitas.github.io/assets/img/ionic-mobileweb-flatfile-cms.webp
    title: Mobile Web Flatfile CMS
    description: Build your all in one website and mobile app design UI with bludic a flatfile cms project with backend admin panel.
    link: https://creativitaz.gumroad.com/l/bludicpro
- - image: /assets/img/minimalist-blog.webp
+ - image: https://creativitas.github.io/assets/img/minimalist-blog.webp
    title: Minimalist Blog
    description: Build your complete blog with minimalist blog themes, complete with SEO plugins, and backend admin panel.
    link: https://creativitaz.gumroad.com/l/text-x-pro
- - image: /assets/img/mobilewebmarkdown.png
+ - image: https://creativitas.github.io/assets/img/mobilewebmarkdown.png
    title: Markdown Mobile
    description: If you want develope mobile website UI design with markdown run on PHP , so you can use this project.
    link: https://creativitaz.gumroad.com/l/piconic-pro
- - image: /assets/img/darkmodernwebsite.webp
+ - image: https://creativitas.github.io/assets/img/darkmodernwebsite.webp
    title: Darkco Dark Website
    description: Deploy your modern attractive website with darkco project, Built with flatfile cms with backend admin panel.
    link: https://creativitaz.gumroad.com/l/darkco
- - image: /assets/img/agency.webp
+ - image: https://creativitas.github.io/assets/img/agency.webp
    title: Agency Website
    description: If you have project or need to develope agency website , you can use this project ,work witj backend admin faltfile cms.
    link: https://creativitaz.gumroad.com/l/creativeagency-bl
- - image: /assets/img/php-markdown-unique.webp
+ - image: https://creativitas.github.io/assets/img/php-markdown-unique.webp
    title: Unique Markdown PHP
    description: Get start develope your website with modern markdown PHP technology with this project, very complete with many features.
    link: https://creativitaz.gumroad.com/l/picobookpro
- - image: /assets/img/astrojscar.jpg
+ - image: https://creativitas.github.io/assets/img/astrojscar.jpg
    title: Astro JS Car
    description: Deploy your rent a car and limousine website project with astro js , static site generator modern.
    link: https://creativitaz.gumroad.com/l/astro-js-car
- - image: /assets/img/simpledocumentationweb.jpg
+ - image: https://creativitas.github.io/assets/img/simpledocumentationweb.jpg
    title: Docuna Website Docs
    description: Lets build your simple and fast documentation website with starlight astro JS.
    link: https://creativitaz.gumroad.com/l/docuna

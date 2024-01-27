@@ -34,7 +34,6 @@ Lighthouse 🖥️ Desktop Result
 
 ![Portfolio website developer jekyll themes template](assets/img/desktop.png)
 
-
 --------------
 
 ### 🛠️ How to :
@@ -49,11 +48,11 @@ Lighthouse 🖥️ Desktop Result
 
 ### Support us with buy me a coffee 🤞
 
-[☕️ Buy A Coffee →](https://creativitaz.gumroad.com/l/coffee) 
+☕️ [Buy A Coffee →](https://creativitaz.gumroad.com/l/coffee) 
 
 or 
 
-[🥂 Support with Paypall →](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
+🥂 [Support with Paypall →](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
 --------------
 
@@ -62,4 +61,3 @@ or
 Hire me 🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
 👉 Our Services : [https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas/)
-
